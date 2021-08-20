@@ -1,0 +1,3 @@
+C:\Users\admin\Desktop\HMI\StudyWpfHml\Solution1\basicWpfApp\obj\Debug\basicWpfApp.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\HMI\StudyWpfHml\Solution1\basicWpfApp\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\HMI\StudyWpfHml\Solution1\basicWpfApp\obj\Debug\basicWpfApp_MarkupCompile.cache
